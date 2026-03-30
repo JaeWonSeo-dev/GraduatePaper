@@ -1,0 +1,27 @@
+# Large datasets
+CSV/
+CSV_NB15/
+
+# Python environments / caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Experiment outputs
+runs/
+tmp_small/
+debug_output.txt
+results*.csv
+
+# Binaries / archives
+*.exe
+*.zip
+
+# Local document artifacts
+*.hwpx
+
+# OS files
+Thumbs.db
+.DS_Store
